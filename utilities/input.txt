@@ -1,0 +1,19 @@
+Initial Fruits List: [Apple, Banana, Orange]
+Fruits List: [Apple, Orange, Grapes]
+Initial Numbers Set: {1, 2, 3, 4, 5}
+Numbers Set: {1, 2, 4, 5, 6}
+Initial Ages Map: {John: 25, Jane: 30}
+Ages Map: {Jane: 30, Jake: 22}
+Iterating over List:
+Apple
+Orange
+Grapes
+Iterating over Set:
+1
+2
+4
+5
+6
+Iterating over Map:
+Jane is 30 years old
+Jake is 22 years old
